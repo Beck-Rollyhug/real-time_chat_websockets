@@ -1,0 +1,13 @@
+import React from 'react';
+
+const Room = () => {
+    return (
+        <div>
+            <h2>Выберите имя</h2>
+            <input/>
+            <button>Подключиться</button>
+        </div>
+    );
+};
+
+export default Room;
